@@ -34,7 +34,7 @@ function App() {
           type="text"
           value={prompt}
           onChange={(e) => setPrompt(e.target.value)}
-          placeholder="Write your prompt.."
+          placeholder="Serwus, w czym mogę pomóc?"
           className="textarea"
         ></textarea>
 
@@ -43,7 +43,7 @@ function App() {
           disabled={loading || prompt.length === 0}
           className="btn"
         >
-          {loading ? "Generating..." : "Generate"}
+          {loading ? "Zaczekaj około 21 do 37 sekund" : "Zapytaj PapAI"}
         </button>
 
         <pre className="result">{result}</pre>

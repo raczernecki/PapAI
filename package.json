@@ -1,6 +1,6 @@
 {
     "name": "react-openai",
-    "homepage": "https://raczernecki.github.io/pages-openapi",
+    "homepage": "https://raczernecki.github.io/pages-openai",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
