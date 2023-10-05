@@ -40,7 +40,7 @@ body {
   }
 
   .devel {
-    display: none;
+    /* display: none; */
     font-size: 0.7em;
     color: #BBB;
   }
