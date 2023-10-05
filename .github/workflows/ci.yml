@@ -1,0 +1,45 @@
+name: CI
+
+on: [push]
+
+env:
+  COMPOSER_MEMORY_LIMIT: -1
+
+jobs:
+  build:
+    runs-on: 'ubuntu-20.04'
+    strategy:
+      fail-fast: false
+      matrix:
+        php-versions: ['8.1']
+        drupal-release: ['stable']
+        composer-channel: ['stable']
+        include:
+          - php-versions: '8.1'
+            drupal-release: dev
+            composer-channel: stable
+          - php-versions: '8.1'
+            drupal-release: stable
+            composer-channel: snapshot
+    steps:
+      - name: Dump matrix context
+        env:
+          MATRIX_CONTEXT: ${{ toJSON(matrix) }}
+        run: echo "$MATRIX_CONTEXT"
+
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: ${{ matrix.php-versions }}
+          extensions: gd, pdo_sqlite
+
+      - name: Update composer
+        run: composer --verbose self-update --${{ matrix.composer-channel }}
+
+      - name: Dump composer version
+        run: composer --version
+
+
