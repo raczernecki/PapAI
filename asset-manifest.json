@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/PapAI/static/css/main.fd58b1ee.css",
-    "main.js": "/PapAI/static/js/main.81ad4a31.js",
+    "main.js": "/PapAI/static/js/main.b4a93476.js",
     "static/js/787.c6ae19d5.chunk.js": "/PapAI/static/js/787.c6ae19d5.chunk.js",
     "index.html": "/PapAI/index.html",
     "main.fd58b1ee.css.map": "/PapAI/static/css/main.fd58b1ee.css.map",
-    "main.81ad4a31.js.map": "/PapAI/static/js/main.81ad4a31.js.map",
+    "main.b4a93476.js.map": "/PapAI/static/js/main.b4a93476.js.map",
     "787.c6ae19d5.chunk.js.map": "/PapAI/static/js/787.c6ae19d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fd58b1ee.css",
-    "static/js/main.81ad4a31.js"
+    "static/js/main.b4a93476.js"
   ]
 }
