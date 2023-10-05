@@ -3,8 +3,10 @@ import { Configuration, OpenAIApi } from "openai";
 
 function App() {
   const configuration = new Configuration({
-    apiKey: secrets.REACT_APP_OPENAI_API_KEY,
+    apiKey: process.env.REACT_APP_OPENAI_API_KEY,
   });
+  delete configuration.baseOptions.headers['User-Agent'];
+
   const openai = new OpenAIApi(configuration);
 
   const [prompt, setPrompt] = useState("");

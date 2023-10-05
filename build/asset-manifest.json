@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/pages-openai/static/css/main.1b4ff9b2.css",
-    "main.js": "/pages-openai/static/js/main.3dbb8296.js",
+    "main.css": "/pages-openai/static/css/main.fd58b1ee.css",
+    "main.js": "/pages-openai/static/js/main.da0c6427.js",
     "static/js/787.c6ae19d5.chunk.js": "/pages-openai/static/js/787.c6ae19d5.chunk.js",
     "index.html": "/pages-openai/index.html",
-    "main.1b4ff9b2.css.map": "/pages-openai/static/css/main.1b4ff9b2.css.map",
-    "main.3dbb8296.js.map": "/pages-openai/static/js/main.3dbb8296.js.map",
+    "main.fd58b1ee.css.map": "/pages-openai/static/css/main.fd58b1ee.css.map",
+    "main.da0c6427.js.map": "/pages-openai/static/js/main.da0c6427.js.map",
     "787.c6ae19d5.chunk.js.map": "/pages-openai/static/js/787.c6ae19d5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b4ff9b2.css",
-    "static/js/main.3dbb8296.js"
+    "static/css/main.fd58b1ee.css",
+    "static/js/main.da0c6427.js"
   ]
 }
