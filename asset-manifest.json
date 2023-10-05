@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/PapAI/static/css/main.623c4ae9.chunk.css",
-    "main.js": "/PapAI/static/js/main.818fdeef.chunk.js",
-    "main.js.map": "/PapAI/static/js/main.818fdeef.chunk.js.map",
+    "main.js": "/PapAI/static/js/main.a58471d6.chunk.js",
+    "main.js.map": "/PapAI/static/js/main.a58471d6.chunk.js.map",
     "runtime-main.js": "/PapAI/static/js/runtime-main.c994da0e.js",
     "runtime-main.js.map": "/PapAI/static/js/runtime-main.c994da0e.js.map",
     "static/js/2.1197b21a.chunk.js": "/PapAI/static/js/2.1197b21a.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.c994da0e.js",
     "static/js/2.1197b21a.chunk.js",
     "static/css/main.623c4ae9.chunk.css",
-    "static/js/main.818fdeef.chunk.js"
+    "static/js/main.a58471d6.chunk.js"
   ]
 }
