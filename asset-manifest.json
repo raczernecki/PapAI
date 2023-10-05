@@ -1,15 +1,22 @@
 {
   "files": {
-    "main.css": "/PapAI/static/css/main.fd58b1ee.css",
-    "main.js": "/PapAI/static/js/main.b4a93476.js",
-    "static/js/787.c6ae19d5.chunk.js": "/PapAI/static/js/787.c6ae19d5.chunk.js",
+    "main.css": "/PapAI/static/css/main.623c4ae9.chunk.css",
+    "main.js": "/PapAI/static/js/main.cda35126.chunk.js",
+    "main.js.map": "/PapAI/static/js/main.cda35126.chunk.js.map",
+    "runtime-main.js": "/PapAI/static/js/runtime-main.a185ba4d.js",
+    "runtime-main.js.map": "/PapAI/static/js/runtime-main.a185ba4d.js.map",
+    "static/js/2.11b3f787.chunk.js": "/PapAI/static/js/2.11b3f787.chunk.js",
+    "static/js/2.11b3f787.chunk.js.map": "/PapAI/static/js/2.11b3f787.chunk.js.map",
+    "static/js/3.39ec1368.chunk.js": "/PapAI/static/js/3.39ec1368.chunk.js",
+    "static/js/3.39ec1368.chunk.js.map": "/PapAI/static/js/3.39ec1368.chunk.js.map",
     "index.html": "/PapAI/index.html",
-    "main.fd58b1ee.css.map": "/PapAI/static/css/main.fd58b1ee.css.map",
-    "main.b4a93476.js.map": "/PapAI/static/js/main.b4a93476.js.map",
-    "787.c6ae19d5.chunk.js.map": "/PapAI/static/js/787.c6ae19d5.chunk.js.map"
+    "static/css/main.623c4ae9.chunk.css.map": "/PapAI/static/css/main.623c4ae9.chunk.css.map",
+    "static/js/2.11b3f787.chunk.js.LICENSE.txt": "/PapAI/static/js/2.11b3f787.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/css/main.fd58b1ee.css",
-    "static/js/main.b4a93476.js"
+    "static/js/runtime-main.a185ba4d.js",
+    "static/js/2.11b3f787.chunk.js",
+    "static/css/main.623c4ae9.chunk.css",
+    "static/js/main.cda35126.chunk.js"
   ]
 }
