@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pages-openapi/static/css/main.bfb088ed.css",
+    "main.js": "/pages-openapi/static/js/main.a785eed4.js",
+    "static/js/787.c6ae19d5.chunk.js": "/pages-openapi/static/js/787.c6ae19d5.chunk.js",
+    "index.html": "/pages-openapi/index.html",
+    "main.bfb088ed.css.map": "/pages-openapi/static/css/main.bfb088ed.css.map",
+    "main.a785eed4.js.map": "/pages-openapi/static/js/main.a785eed4.js.map",
+    "787.c6ae19d5.chunk.js.map": "/pages-openapi/static/js/787.c6ae19d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfb088ed.css",
+    "static/js/main.a785eed4.js"
+  ]
+}
