@@ -3,9 +3,11 @@ import { Configuration, OpenAIApi } from "openai";
 
 function App() {
   const configuration = new Configuration({
-    apiKey: process.env.REACT_APP_OPENAI_API_KEY,
+    organization: '',
+    apiKey: process.env.apiKey,
   });
   delete configuration.baseOptions.headers['User-Agent'];
+  configuration.baseOptions.headers['Authorization'] = 'Bearer ' + String(configuration.apiKey);
 
   const openai = new OpenAIApi(configuration);
 
