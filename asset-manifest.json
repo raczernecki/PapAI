@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/pages-openai/static/css/main.690b5f24.css",
-    "main.js": "/pages-openai/static/js/main.2f276004.js",
+    "main.js": "/pages-openai/static/js/main.d5ebac96.js",
     "static/js/787.c6ae19d5.chunk.js": "/pages-openai/static/js/787.c6ae19d5.chunk.js",
     "index.html": "/pages-openai/index.html",
     "main.690b5f24.css.map": "/pages-openai/static/css/main.690b5f24.css.map",
-    "main.2f276004.js.map": "/pages-openai/static/js/main.2f276004.js.map",
+    "main.d5ebac96.js.map": "/pages-openai/static/js/main.d5ebac96.js.map",
     "787.c6ae19d5.chunk.js.map": "/pages-openai/static/js/787.c6ae19d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.690b5f24.css",
-    "static/js/main.2f276004.js"
+    "static/js/main.d5ebac96.js"
   ]
 }
